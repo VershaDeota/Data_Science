@@ -1,2 +1,3 @@
 # Data_Science_Journey
-Learning data science and implementing projects to enhance my knowledge on this domain.
+Learning data science.
+implementing projects to analyze and solve real world problems 
